@@ -1,35 +1,29 @@
 # 👋 Olá! Eu sou o Roberto
 
-Sou apaixonado por desenvolvimento **mobile e web**, criando projetos com foco em desempenho, responsividade e boas práticas.
+Sou um desenvolvedor apaixonado por criar experiências incríveis com foco em performance, animação e responsividade.  
+Atualmente estudo e desenvolvo projetos com foco em mobile e web usando as stacks mais modernas do mercado.
 
-## 🛠️ Tecnologias que estudo e aplico:
+---
 
-- HTML5
-- CSS3
-- JavaScript
-- React
-- React Native
-- Node.js
-- Express
+## 🛠️ Tecnologias que estudo e aplico
 
-## 📊 Nível de uso das tecnologias
+- HTML5  
+- CSS3  
+- JavaScript  
+- React  
+- React Native  
+- Node.js  
+- Express  
 
-```mermaid
-pie
-    title Meu uso atual das tecnologias
-    "HTML5": 10
-    "CSS3": 10
-    "JavaScript": 25
-    "React": 20
-    "React Native": 15
-    "Node.js": 10
-    "Express": 10
+---
 
-🚀 Meus objetivos
-Criar projetos completos com React Native
+## 🚀 Meus objetivos
 
-Dominar backend com Node.js e Express
+- Criar projetos completos com React Native  
+- Dominar backend com Node.js e Express  
+- Melhorar a lógica e escrever código limpo com JavaScript  
+- Compartilhar animações e interações criativas com HTML e CSS  
 
-Melhorar a lógica e escrever código limpo com JavaScript
+---
 
-Compartilhar animações e interações criativas com HTML e CSS
+> Feito com 💙 por [Roberto](https://github.com/esdrasamarall)
