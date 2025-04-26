@@ -1,29 +1,32 @@
-# 👋 Olá! Eu sou o Esdras Amaral
+# 👋 Olá! Seja bem-vindo ao meu perfil!
 
-Sou um desenvolvedor apaixonado por criar experiências incríveis com foco em performance, animação e responsividade.  
-Atualmente estudo e desenvolvo projetos com foco em mobile e web usando as stacks mais modernas do mercado.
-
----
-
-## 🛠️ Tecnologias que estudo e aplico
-
-- HTML5  
-- CSS3  
-- JavaScript  
-- React  
-- React Native  
-- Node.js  
-- Express  
+Sou o **Esdras Amaral**, estudante de **Engenharia de Software** e apaixonado por tecnologia.  
+Atualmente focado em **Desenvolvimento Mobile** com **React Native** e construindo soluções com criatividade e código limpo.
 
 ---
 
-## 🚀 Meus objetivos
+### 🚀 Tecnologias que estou usando
 
-- Criar projetos completos com React Native  
-- Dominar backend com Node.js e Express  
-- Melhorar a lógica e escrever código limpo com JavaScript  
-- Compartilhar animações e interações criativas com HTML e CSS  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ---
 
-> Feito com 💙 por [Roberto](https://github.com/esdrasamarall)
+### 📊 Estatísticas do GitHub
+
+![Esdras GitHub stats](https://github-readme-stats.vercel.app/api?username=esdrasamaral&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esdrasamaral&layout=compact&theme=radical)
+
+---
+
+### 📫 Como me encontrar
+
+- 📧 Email: [esdrasamaral@outlook.com](mailto:esdrasamaral@outlook.com)  
+- 🐦 Twitter: [@Esdras_Amaral00](https://x.com/Esdras_Amaral00)  
+- 📸 Instagram: [@esdras.roberto001](https://www.instagram.com/esdras.roberto001/)  
+- 👤 Facebook: [Esdras Roberto](https://www.facebook.com/esdras.roberto001/)  
+- 💻 GitHub: [esdrasamaral](https://github.com/esdrasamaral)
